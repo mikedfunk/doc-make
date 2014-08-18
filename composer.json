@@ -1,0 +1,23 @@
+{
+    "name": "terrence-howard/doc-make",
+    "description": "",
+    "authors": [
+        {
+            "name": "Terrence Howard and Mike Funk",
+            "email": "mike@mikefunk.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0",
+        "illuminate/support": "4.2.*"
+    },
+    "autoload": {
+        "classmap": [
+            "src/migrations"
+        ],
+        "psr-0": {
+            "TerrenceHoward\\DocMake\\": "src/"
+        }
+    },
+    "minimum-stability": "stable"
+}
