@@ -1,3 +1,7 @@
+#  DEPRACATED
+
+Please use [ide-alias](http://github.com/mikedfunk/ide-alias) instead.
+
 # Doc Make Command
 
 This is a laravel artisan that generates autocomplete files in a similar way to [IDE Helper](https://github.com/barryvdh/laravel-ide-helper).
