@@ -16,4 +16,4 @@ You can change the directory it saves to with `--path=path/to/autocomplete`. Rem
 
 ## Respect
 
-This class was originally created by Terrence Howard. All credit goes to him.
+This class was originally created by [Terrence Howard](https://github.com/chemisus). All credit goes to him.
