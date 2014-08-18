@@ -6,7 +6,7 @@ This works well with the [vim-php-namespace](https://github.com/arnaud-lb/vim-ph
 
 ## Installation
 
-1. Install via [composer](http://getcomposer.org): `composer require terrence-howard/doc-make:dev-master`
+1. Install via [composer](http://getcomposer.org): `composer require --dev terrence-howard/doc-make:dev-master`
 2. Add the service provider to your `app/config/app.php` in the `providers` area: `'TerrenceHoward\DocMake\DocMakeServiceProvider'`
 
 ## Usage
